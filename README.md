@@ -8,15 +8,15 @@ This repo aims to compare the results using three techniques for time series ana
 
 ## 1) ARIMA
 
-## 2.Prophet
+## 2) Prophet
 
 A traditional approach to checking its results, a.k.a. ARIMA, attacks one type of series called temporal series, which is not stationary.
 
-### 2.1. Introduction
+### 2.1) Introduction
 
 A traditional approach to checking its results, a.k.a. ARIMA, attacks one type of series called temporal series, which is not stationary.
 
 This type of series does not show regularity, such as the behavior of a CPU. It is the typical manner of stock options, a measure of earth shake, etc.
 
-My goal is to use the Prophet model, which is based on Machine Learning, to predict the future values of stock options; in this case, I have chosen Nubank. Let's start.
+I aim to use the Prophet model, based on Machine Learning, to predict the future values of stock options; in this case, I have chosen Nubank. Let's start.
 
