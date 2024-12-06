@@ -1,4 +1,4 @@
-# Time Series Analisys with ARIMA / Prophet / LLM
+# Time Series Analysis with ARIMA / Prophet / LLM
 
 This repo aims to compare the results using three techniques for time series analysis:
 
