@@ -18,3 +18,6 @@ This type of series does not show regularity, such as the behavior of a CPU. It 
 
 I aim to use the Prophet model, based on Machine Learning, to predict the future values of stock options; in this case, I have chosen Nubank. Let's start.
 
+### 2.2) Code
+
+Please refer to ts_prophet_v3.ipynb file.
