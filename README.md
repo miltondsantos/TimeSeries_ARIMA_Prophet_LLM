@@ -8,7 +8,8 @@ Even though I will show my approach to predicting the future values of a stock, 
 
 ## Prophet
 
-A traditional approach to checking its results, a.k.a. ARIMA, attacks one type of series called temporal series, which is not stationary.
+A traditional approach to time series is the, a.k.a. ARIMA, based on autoregressive and mobile averages and an integrator factor to not stationary series.
+Instead, I will use the library Prophet [1], which analyzes time series through Machine Learning.
 
 ### 2.1) Introduction
 
@@ -19,3 +20,5 @@ I aim to use the Prophet model, based on Machine Learning, to predict the future
 ### 2.2) Code
 
 Please refer to ts_prophet_v3.ipynb file.
+
+[1]  TAYLOR, S. J. and Letham, B. THE AMERICAN STATISTICIAN. 2018, VOL. 72, NO. 1, 37–45
