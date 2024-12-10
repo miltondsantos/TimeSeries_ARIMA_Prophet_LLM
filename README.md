@@ -1,14 +1,12 @@
-# Time Series Analysis with ARIMA / Prophet / LLM
+# Time Series Analysis with Prophet
 
-This repo aims to compare the results using three techniques for time series analysis:
+This repo aims to analyze the results using the time series analysis technique for Prophet from Meta (Facebook).
+Even though I will show my approach to predicting the future values of a stock, I would like to explain others' approaches:
 
 1) ARIMA is a traditional approach to check this type of analysis.
-2) Another using the Prophet has ML resources.
-3) LLM will check its behavior to predict values and plot graphs.
+2) LLM will check its behavior to predict values and plot graphs.
 
-## 1) ARIMA
-
-## 2) Prophet
+## Prophet
 
 A traditional approach to checking its results, a.k.a. ARIMA, attacks one type of series called temporal series, which is not stationary.
 
