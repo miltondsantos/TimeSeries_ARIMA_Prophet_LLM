@@ -1,3 +1,4 @@
+
 # Time Series Analysis with Prophet
 
 This repo aims to analyze the results using the time series analysis technique for Prophet from Meta (Facebook).
@@ -20,5 +21,7 @@ I aim to use the Prophet model, based on Machine Learning, to predict the future
 ### 2.2) Code
 
 Please refer to ts_prophet_v3.ipynb file.
+
+**Reference**
 
 [1]  TAYLOR, S. J. and Letham, B. THE AMERICAN STATISTICIAN. 2018, VOL. 72, NO. 1, 37–45
