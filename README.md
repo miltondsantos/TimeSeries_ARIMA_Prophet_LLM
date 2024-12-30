@@ -21,6 +21,10 @@ I aim to use the Prophet model, based on Machine Learning, to predict the future
 ### 2.2) Code
 
 Please refer to ts_prophet_v3.ipynb file.
+This file has a lot of figures, and due to that, I suggest opening the file on https://nbviewer.org/ and past this address as follows:
+
+2.2.1) Open the URL: https://nbviewer.org/
+2.2.2) Copy this address: _https://github.com/miltondsantos/TimeSeries_ARIMA_Prophet_LLM/blob/main/ts_prophet_v3.ipynb_
 
 **Reference**
 
